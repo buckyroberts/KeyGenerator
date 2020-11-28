@@ -6,19 +6,19 @@ from nacl.signing import SigningKey
 Running this script will produce all keys necessary for deploying a new node.
 
 Account Number Signing Key:
-2ea2542cb0b1176bd773beb58051c8baba832df30fe1f853e62ec9628032e087
+1a39089ad26ed05ad9329e880f0df3fdd6681d5102a342e1828b58bf9d348865
 
 Account Number:
-a007f798fe362a3fc891f48dcee52fb8278f65821c55275d726a8e4f53a96536
+2ac4d35a74e8146f65007c3603af23591df158e3165ade812be65ac481fe9fd6
 
 NID Signing Key:
-642df386806978baf63d660773983d13f19a714615c8acab74a0e16b775ca6c8
+937a38c891e73d214f593cb8b11cce5cf07d12c0550961f779cc5d7ada520f4b
 
 NID:
-4a1331c318325ee601757aa4be45b34260fedf2f42071a871e16479b6cfd4746
+feca95b78fb42f6da1293855bcc0265224f81693d83cd32c0530f372def61a33
 
 SECRET_KEY:
-okjd6yv)7wt#+ir#v2-j$9w!brgw3(k1#a28is5i7puk59itptm
++y15h+q5v-)r)_wf7+&bb1)o+3i1e#8tcw5^hc5e07*n4l*+^=
 """
 
 
